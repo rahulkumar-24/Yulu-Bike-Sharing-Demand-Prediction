@@ -89,7 +89,7 @@ These metrics indicate a strong predictive ability of the model to estimate bike
 ---
 
 ## Contributors
-- [Your Name](https://github.com/rahulkumar-24)
+- [Rahul Kumar](https://github.com/rahulkumar-24)
 
 ---
 
